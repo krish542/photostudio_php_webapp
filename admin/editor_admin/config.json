@@ -1,0 +1,11 @@
+{
+	"stickers": [
+		{"name":"Background","items":20,"type":"png"},
+		{"name":"Banner","items":20,"type":"png","darkbg":true},
+		{"name":"Borders","items":22,"type":"png","darkbg":true},
+		{"name":"Flowers","items":25,"type":"png","darkbg":true},
+		{"name":"Frames","items":35,"type":"png","darkbg":true},
+		{"name":"Watercolor","items":17,"type":"png","darkbg":true},
+		{"name":"Miscellaneous","items":43,"type":"png","darkbg":true}
+	]
+}
